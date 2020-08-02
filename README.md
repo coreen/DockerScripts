@@ -20,3 +20,7 @@ clean-docker.sh
 * Notesheet of commands for cleaning docker image/container space on local machine
 ```
 
+docker-debug.sh
+```
+* Notesheet of commands for initially writing Dockerfiles so will always run for debugging mounted volumes and other steps
+```
